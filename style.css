@@ -5,3 +5,11 @@ html {
 body {
   background:#0D343A;
 }
+
+.drop {
+  background: rgba(255,255,255,0.6);
+  width: 1px;
+	height: 89px;
+	position: absolute;
+	bottom: 200px;
+}
