@@ -8,6 +8,8 @@ function randRange( minNum, maxNum) {
   return (Math.floor(Math.random() * (maxNum - minNum + 1)) + minNum);
 }
 
+// Generate Drop Range Function 
+
 function createRain() {
 	for( i=1; i < totalRain; i++ ) {
     var dropLeft = randRange(0,1600);
@@ -17,3 +19,6 @@ function createRain() {
     $('#drop'+i).css('top',dropTop);
 	}
 }
+
+// Call Rain Function
+createRain();

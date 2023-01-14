@@ -1,24 +1,14 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Featured Section](#featured-section)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
+Console Rain Sim
 
 ### Links
 
@@ -30,24 +20,12 @@
 ### Built with
 
 - HTML5
-
-### Featured Section
-
-
-```html
-```
-
-```css
-```
-
-```js
-```
+- CSS  
+- JQuery
 
 ### Useful resources
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+- [JQuery CDN](https://cdnjs.com/libraries/jquery) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
 ## Author
 
